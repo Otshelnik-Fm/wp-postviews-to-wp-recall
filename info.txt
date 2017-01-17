@@ -1,0 +1,7 @@
+Name: WP-PostViews to WP-Recall;
+Version: 1.0;
+Support Core: 15.6.4;
+Description: Интеграция плагина WP-Recall с плагином "WP-PostViews". Выводит в вкладке "Публикации" кол-во просмотров и топ просмативаемых;
+Author: Владимир Дружаев (Otshelnik-Fm);
+Author URI: http://across-ocean.otshelnik-fm.ru/;
+Add-on URI: https://codeseller.ru/products/wp-postviews-to-wp-recall/;
